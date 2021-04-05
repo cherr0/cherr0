@@ -7,9 +7,9 @@
 
   
 ### Who Am I
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cherr0" height="165">
 - 💻 I’m currently learning `Java`, `Spring`, `AWS`
 - ✏️ I'm a developer who pursues learning.
 - 🏠 My hometown is Daegu in Korea
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cherr0" height="165">
+
