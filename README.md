@@ -6,7 +6,9 @@
   
 
 <div align='right'>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula)
+
 </div>
 
 ### Who Am I
