@@ -8,13 +8,8 @@
   
 ### Who Am I
 
-- 🌱 I’m currently learning `Java`, `Spring`, `AWS`
-- 🥇 I majored in Economics
-- 🚅 My hometown is Daegu in Korea
+- 💻 I’m currently learning `Java`, `Spring`, `AWS`
+- ✏️ I'm a developer who pursues learning.
+- 🏠 My hometown is Daegu in Korea
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cherr0" height="165">
-
-### What I Like
-- 📺 Drama
-- 🔵 Game
-- 🍕 Pizza
