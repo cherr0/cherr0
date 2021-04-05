@@ -11,10 +11,9 @@
 - ✏️ I'm a developer who pursues learning.
 - 🏠 My hometown is Daegu in Korea
 
-
+<br>
+<br>
 ## My Skill Set
-<br>
-<br>
 <table><tr><td valign="top" width="33%">
 
 
