@@ -9,9 +9,9 @@
 - ✏️ I'm a developer who pursues learning.
 - 🏠 My hometown is Daegu in Korea
 
-<div>
+<div align="justify">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact&theme=dracula" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
 </div>
 
 
