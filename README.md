@@ -7,6 +7,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
 
+<hr>
+<br>
+
 ### Who Am I
 - 💻 I’m currently learning `Java`, `Spring`, `AWS`
 - ✏️ I'm a developer who pursues learning.
