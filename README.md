@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adsl1664@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cherro0_0) 
 
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
+
 
 <hr>
 <br>
@@ -15,13 +14,17 @@
 - ✏️ I'm a developer who pursues learning.
 - 🏠 My hometown is Daegu in Korea
 
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
+</div>
+
+
 <br>
 <br>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
