@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; background: none;" />
 </div>  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherr0&count_bg=%23F54F75&title_bg=%23828282&icon=baidu.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
