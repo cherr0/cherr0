@@ -4,12 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adsl1664@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cherro0_0) 
 
   
-
-<div align='right'>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula)
-
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
 
 ### Who Am I
 - 💻 I’m currently learning `Java`, `Spring`, `AWS`
