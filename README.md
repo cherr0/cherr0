@@ -5,7 +5,7 @@
 
 
 ### Who Am I
-- 💻 I’m currently learning `Java`, `Spring`, `AWS`
+- 💻 I’m currently learning `JavaScript`, `TypeScript`, `Vue`
 - ✏️ I'm a developer who pursues learning.
 - 🏠 My hometown is Daegu in Korea
 
