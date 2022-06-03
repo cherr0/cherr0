@@ -5,13 +5,14 @@
 
 
 ### Who Am I
-- 💻 I’m currently learning `JavaScript`, `TypeScript`, `Vue`
+- 💻 I’m currently learning `JavaScript`, `TypeScript`, `React`
 - ✏️ I'm a developer who pursues learning.
-- 🏠 My hometown is Daegu in Korea
 
-<div align="justify">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
+<div align="left">
+  <p align="left">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact&theme=dracula" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
+  </p>
 </div>
 
 
@@ -19,7 +20,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-1c2c4c?style=flat-square&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Javascript-f0db4f?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ff3d00?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ff3d00?style=flat-square&logo=Java&logoColor=white"/>
 </div>
