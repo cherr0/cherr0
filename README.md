@@ -1,13 +1,5 @@
 # Hi There 👋
 
-<div align="left">
-  <p align="left">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherr0&layout=compact&theme=dracula" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cherr0&show_icons=true&theme=dracula" />
-  </p>
-</div>
-
-
 <br />
 
 ### Tech Stack 💻
